@@ -1,1 +1,0 @@
-SELECT "FirstName", "LastName", "BirthDate" FROM "Employee" WHERE "BirthDate" = (SELECT min("BirthDate") FROM "Employee");

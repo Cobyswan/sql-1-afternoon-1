@@ -1,1 +1,0 @@
-SELECT Min("Total") FROM "Invoice";

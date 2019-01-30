@@ -1,1 +1,0 @@
-UPDATE "Employee" SET "Title" = 'General Manager', "ReportsTo" = null WHERE "FirstName" = 'Nancy' AND "LastName" = 'Edwards';

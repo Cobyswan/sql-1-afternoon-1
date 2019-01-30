@@ -1,1 +1,0 @@
-SELECT * FROM Person ORDER BY Height ASC;

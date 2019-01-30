@@ -1,1 +1,0 @@
-SELECT * FROM Person WHERE LOWER(city) IN ( LOWER('Irving'), LOWER('LA'));

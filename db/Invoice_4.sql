@@ -1,1 +1,0 @@
-SELECT * FROM "Invoice" WHERE "Total" > 5;
